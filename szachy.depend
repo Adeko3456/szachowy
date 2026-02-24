@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1771947259 source:c:\users\adam\desktop\nowe szachy\szachy\main.cpp
+	"Szachownica.h"
+
+1771937092 source:c:\users\adam\desktop\nowe szachy\szachy\src\szachownica.cpp
+	"Szachownica.h"
+	"Pole.h"
+	"Figura.h"
+	"Hetman.h"
+	"Krol.h"
+	"Goniec.h"
+	"Wieza.h"
+
+1689290242 c:\users\adam\desktop\nowe szachy\szachy\include\szachownica.h
+	<iostream>
+	<vector>
+	<memory>
+
+1689436480 source:c:\users\adam\desktop\nowe szachy\szachy\src\pole.cpp
+	"Pole.h"
+	"Figura.h"
+	"Szachownica.h"
+
+1689433162 c:\users\adam\desktop\nowe szachy\szachy\include\pole.h
+	<iostream>
+	<memory>
+
+1689371322 source:c:\users\adam\desktop\nowe szachy\szachy\src\krol.cpp
+	"Krol.h"
+	"Figura.h"
+	"Pole.h"
+
+1681660478 c:\users\adam\desktop\nowe szachy\szachy\include\krol.h
+	"Figura.h"
+
+1771947228 source:c:\users\adam\desktop\nowe szachy\szachy\src\figura.cpp
+	"Figura.h"
+	"Pole.h"
+
+1771936236 c:\users\adam\desktop\nowe szachy\szachy\include\figura.h
+	<iostream>
+
+1689371328 source:c:\users\adam\desktop\nowe szachy\szachy\src\hetman.cpp
+	"Hetman.h"
+	"Figura.h"
+	"Pole.h"
+
+1681657330 c:\users\adam\desktop\nowe szachy\szachy\include\hetman.h
+	"Figura.h"
+
+1689375538 source:c:\users\adam\desktop\nowe szachy\szachy\src\wieza.cpp
+	"Wieza.h"
+	"Pole.h"
+
+1681658290 c:\users\adam\desktop\nowe szachy\szachy\include\wieza.h
+	"Figura.h"
+
+1771947304 source:c:\users\adam\desktop\nowe szachy\szachy\src\goniec.cpp
+	"Goniec.h"
+	"Figura.h"
+	"Pole.h"
+
+1681657020 c:\users\adam\desktop\nowe szachy\szachy\include\goniec.h
+	"Figura.h"
+
+1680867174 c:\users\adam\desktop\nowe szachy\szachy\include\header.h
+	<iostream>
+	<vector>
+	<memory>
+	"Pole.h"
+	"Figura.h"
+	"Goniec.h"
+	"Hetman.h"
+	"Krol.h"
+	"Wieza.h"
+	"Szachownica.h"
+
+1689437919 source:c:\users\adam\desktop\projekty\nowe szachy\szachy\main.cpp
+	"Szachownica.h"
+
+1689286640 c:\users\adam\desktop\projekty\nowe szachy\szachy\include\szachownica.h
+	<iostream>
+	<vector>
+	<memory>
+
+1689431739 source:c:\users\adam\desktop\projekty\nowe szachy\szachy\src\figura.cpp
+	"Figura.h"
+	"Pole.h"
+
+1689431739 c:\users\adam\desktop\projekty\nowe szachy\szachy\include\figura.h
+	<iostream>
+
+1689429561 c:\users\adam\desktop\projekty\nowe szachy\szachy\include\pole.h
+	<iostream>
+	<memory>
+
+1689367711 source:c:\users\adam\desktop\projekty\nowe szachy\szachy\src\goniec.cpp
+	"Goniec.h"
+	"Figura.h"
+	"Pole.h"
+
+1681653419 c:\users\adam\desktop\projekty\nowe szachy\szachy\include\goniec.h
+	"Figura.h"
+
+1689367727 source:c:\users\adam\desktop\projekty\nowe szachy\szachy\src\hetman.cpp
+	"Hetman.h"
+	"Figura.h"
+	"Pole.h"
+
+1681653729 c:\users\adam\desktop\projekty\nowe szachy\szachy\include\hetman.h
+	"Figura.h"
+
+1689367720 source:c:\users\adam\desktop\projekty\nowe szachy\szachy\src\krol.cpp
+	"Krol.h"
+	"Figura.h"
+	"Pole.h"
+
+1681656876 c:\users\adam\desktop\projekty\nowe szachy\szachy\include\krol.h
+	"Figura.h"
+
+1689432878 source:c:\users\adam\desktop\projekty\nowe szachy\szachy\src\pole.cpp
+	"Pole.h"
+	"Figura.h"
+	"Szachownica.h"
+
+1689437852 source:c:\users\adam\desktop\projekty\nowe szachy\szachy\src\szachownica.cpp
+	"Szachownica.h"
+	"Pole.h"
+	"Figura.h"
+	"Hetman.h"
+	"Krol.h"
+	"Goniec.h"
+	"Wieza.h"
+
+1681654688 c:\users\adam\desktop\projekty\nowe szachy\szachy\include\wieza.h
+	"Figura.h"
+
+1689371936 source:c:\users\adam\desktop\projekty\nowe szachy\szachy\src\wieza.cpp
+	"Wieza.h"
+	"Pole.h"
+
